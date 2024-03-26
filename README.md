@@ -1,4 +1,4 @@
-# Analysis of Traffic Congestion and Analysis of Cake Quality
+# 1.Analysis of Traffic Congestion and Analysis of Cake Quality
 
 This repository contains a reproducible R markdown file that delves into two primary analyses: understanding and predicting traffic congestion patterns in a U.S. metropolitan area and determining the effect of recipe and baking temperature on the breaking angle of a chocolate cake.
 
@@ -41,7 +41,7 @@ This analysis aims to:
 5. Determine the R^2 value and its implications.
 6. Use model selection procedures to find the best regression model.
 
-## Cake Quality Analysis
+# 2. Cake Quality Analysis
 
 ### Overview
 

@@ -1,6 +1,6 @@
 # Experiment on the Effects of Recipe and Baking Temperature on Chocolate Cake Quality
 
-An experiment was conducted to determine the effect of recipe and baking temperature on the breaking angle of a chocolate cake. The breaking angle is a measure of cake quality, indicating its structural integrity and, indirectly, its texture and readiness. Six different chocolate cake recipes were considered, each baked at a randomly assigned temperature. The temperatures used were 175°C, 185°C, 195°C, 205°C, 215°C, and 225°C. The data collected from this experiment is available in the file `cake.csv` on iLearn.
+An experiment was conducted to determine the effect of recipe and baking temperature on the breaking angle of a chocolate cake. The breaking angle is a measure of cake quality, indicating its structural integrity and, indirectly, its texture and readiness. Six different chocolate cake recipes were considered, each baked at a randomly assigned temperature. The temperatures used were 175°C, 185°C, 195°C, 205°C, 215°C, and 225°C. The data collected from this experiment is available in the file `cake.csv`.
 
 ## Study Design Assessment
 
